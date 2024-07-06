@@ -1,0 +1,36 @@
+.tag-item {
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
+
+.non-active-tag {
+  color: #ffffff;
+  background-color: transparent;
+  border: 1px solid #f3aa4e;
+  border-radius: 17px;
+  padding: 10px;
+  cursor: pointer;
+  outline: none;
+  width: auto;
+  height: 35px;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Roboto';
+  padding-bottom: 10px;
+}
+
+.active-tag {
+  color: #ffffff;
+  background-color: #f3aa4e;
+  border-radius: 17px;
+  padding: 10px;
+  cursor: pointer;
+  outline: none;
+  width: auto;
+  height: 37px;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Roboto';
+  padding-bottom: 10px;
+  padding-bottom: 15px;
+}
